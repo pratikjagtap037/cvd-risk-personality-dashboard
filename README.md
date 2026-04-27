@@ -29,3 +29,7 @@ Diagnoses covered: CABG, PCI, PCI to LAD, Medical Management, Others
 
 
 5th Year Research Project — Data Visualization
+
+<img width="1920" height="1080" alt="Page 1" src="https://github.com/user-attachments/assets/eadc1bdc-3f1c-449b-8dd9-1c390ef69a4b" />
+
+<img width="1920" height="1080" alt="Page 2" src="https://github.com/user-attachments/assets/d729672a-3f9d-4633-9234-2880d969a2af" />
