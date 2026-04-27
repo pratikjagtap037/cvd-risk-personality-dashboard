@@ -1,22 +1,22 @@
-🫀 CVD Risk Personality Dashboard
+**🫀 CVD Risk Personality Dashboard**
 An interactive, multi-page data visualization dashboard exploring the relationship between Type A & Type D personality traits and cardiovascular disease (CVD) risk — built as part of a 5th Year Research Project.
 
-🤖 Built With AI Assistance
+**🤖 Built With AI Assistance**
 This dashboard was designed and developed using HTML, CSS, and JavaScript, with the visualization layout and UI crafted with the help of Claude AI by Anthropic — an AI assistant that helped architect the component structure, chart logic, and dark-theme design system.
 
-📊 What This Dashboard Shows
+**📊 What This Dashboard Shows**
 Distribution of Type A (JAS scale) and Type D (DS14 scale) personality types across n = 201 cardiac patients
 KPI cards, donut charts, scatter plots, gauge charts, stacked bars, and matrix heatmaps
 Cross-tabulation of diagnosis type (CABG, PCI, PCI to LAD, etc.) against personality profiles
 NA (Negative Affect) and SI (Social Inhibition) subscale analysis from the DS14 instrument
 
-🗂️ Pages
+**🗂️ Pages**
 PageContentPage 1 — OverviewSample KPIs, personality distribution, clinical cross-tabsPage 2 — Scale AnalysisGauge scores, NA vs SI trends, age & BMI breakdowns
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 ToolRoleHTML5 / CSS3Structure & dark theme stylingVanilla JavaScriptInteractivity, scatter plot, tab switchingIBM Plex Mono & SansTypographyClaude AI (Anthropic)AI-assisted design & development
 
-📁 Dataset Context
+**📁 Dataset Context**
 Sample size: 201 cardiac patients
 Scales used: JAS (Type A), DS14 (Type D — NA + SI subscales)
 Diagnoses covered: CABG, PCI, PCI to LAD, Medical Management, Others
